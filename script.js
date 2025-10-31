@@ -908,7 +908,7 @@ const TRANSLATIONS = {
   pt: {
     app: {
       title: "Dados da IGFI",
-      tagline: "Dashboard criada para uso da Igreja em Colina® 2025",
+      tagline: "Dashboard criada por João Pedro Fachina para uso da Igreja em Foz do Iguaçu® 2025",
       homeAria: "Início · Dados da IGFI",
       document: ({ page }) =>
         page ? `${page} · Dados da IGFI` : "Dados da IGFI",
